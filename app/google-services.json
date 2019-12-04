@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "746683224275",
+    "firebase_url": "https://karya-seni-5e3de.firebaseio.com",
+    "project_id": "karya-seni-5e3de",
+    "storage_bucket": "karya-seni-5e3de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746683224275:android:f1c5cfaf8320d2ce7a0426",
+        "android_client_info": {
+          "package_name": "android.jplas.karyaseni2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746683224275-i76elrh4kjt1nqt099jf3o44j6sdgs6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIa-kOWTr8B_m_b2iSE43mL7vaBZqeeEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746683224275-i76elrh4kjt1nqt099jf3o44j6sdgs6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
